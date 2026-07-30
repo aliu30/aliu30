@@ -8,7 +8,7 @@ I'm interested in building dependable technology at the intersection of **AI sys
 
 - **[QA RAG Copilot](https://github.com/aliu30/qa-rag-copilot)** — A retrieval-augmented copilot for software quality assurance workflows.
 - **[Low-Resource Question Classification](https://github.com/aliu30/CPSC-440-Project)** — A joint UBC CPSC 440 project with [@Diamond01010111](https://github.com/Diamond01010111), comparing classical and neural models in low-resource settings.
-- **Pantry PAL** — Repository coming soon.
+- **[Pantry PAL](https://github.com/aliu30/pantry-pal)** — A Java Swing meal-planning app that consolidates recipe ingredients into a persistent shopping list.
 
 ## Current Focus
 

@@ -1,6 +1,6 @@
 # Hi, I'm Andrew
 
-I'm an incoming **MSE student in Computer and Information Science at the University of Pennsylvania**. I hold a **BSc in Computer Science and Statistics from the University of British Columbia**.
+I'm an incoming **MSE student in Computer and Information Science at the University of Pennsylvania**. I hold a **BSc with a Combined Major in Computer Science and Statistics from the University of British Columbia**.
 
 I'm interested in building dependable technology at the intersection of **AI systems**, **backend engineering**, **software quality**, and **robotics**.
 

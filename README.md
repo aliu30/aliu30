@@ -7,7 +7,7 @@ I'm interested in building dependable technology at the intersection of **AI sys
 ## Featured Projects
 
 - **[QA RAG Copilot](https://github.com/aliu30/qa-rag-copilot)** — A retrieval-augmented copilot for software quality assurance workflows.
-- **[Low-Resource Question Classification](https://github.com/aliu30/CPSC-440-Project)** — An exploration of question classification in low-resource settings.
+- **[Low-Resource Question Classification](https://github.com/aliu30/CPSC-440-Project)** — A joint UBC CPSC 440 project with [@Diamond01010111](https://github.com/Diamond01010111), comparing classical and neural models in low-resource settings.
 - **Pantry PAL** — Repository coming soon.
 
 ## Current Focus
